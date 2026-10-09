@@ -156,5 +156,3 @@ The IDE icons in the panel and in the screenshot are read from your local Toolbo
 ## License
 
 Licensed under the [MIT License](LICENSE). © 2026 Felix Wahl.
-
-Related: [Chartula](https://github.com/goldbarth/chartula), a grounded changelog CLI in .NET, and [goldbarth.dev](https://www.goldbarth.dev/), where the experiments behind my projects are written up.
