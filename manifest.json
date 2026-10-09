@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "goldbarth.arcula",
+  "name": "Arcula",
+  "version": "0.1.0",
+  "author": "goldbarth",
+  "license": "MIT",
+  "description": "Unofficial quick access to your JetBrains Toolbox projects and IDEs from the bar.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Arcula",
+    "description": "Open recent JetBrains projects, launch installed IDEs, and see pending updates",
+    "category": "Development",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
